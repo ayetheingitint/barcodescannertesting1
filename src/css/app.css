@@ -1,0 +1,15 @@
+/* iOS Cordova Tweak */
+.device-cordova.device-ios {
+  height: 100vh;
+}
+
+/* Your app custom styles here */
+.centered-container{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+
+ 
+
+}
